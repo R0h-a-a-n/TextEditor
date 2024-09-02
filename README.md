@@ -1,3 +1,3 @@
 # TextEditor
 
-Simple Text editor with save/delete/undo functionalities
+Simple Text editor with save/delete/undo functionalities.
